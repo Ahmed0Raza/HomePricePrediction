@@ -1,6 +1,6 @@
 # HomePricePrediction
 
-A Python-based project for predicting house prices using machine learning. This repository includes a backend REST API (Flask), and a frontend (React) for making predictions interactively. All dependencies are managed using a Python virtual environment.
+A Python-based project for predicting house prices using machine learning. This repository includes a backend Express API, and a frontend (React) for making predictions interactively. All dependencies are managed using a Python virtual environment.
 
 ---
 
