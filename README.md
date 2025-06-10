@@ -51,13 +51,13 @@ pip install -r requirements.txt
     ```bash
     cd backend
     ```
-2. Install backend dependencies (if separate `requirements.txt` exists):
+2. Install frontend dependencies:
     ```bash
-    pip install -r requirements.txt
+    npm install
     ```
-3. Start the backend server:
+3. Start the frontend development server:
     ```bash
-    python app.py
+    npm start
     ```
    The backend will run at [http://localhost:5000](http://localhost:5000) by default.
 
