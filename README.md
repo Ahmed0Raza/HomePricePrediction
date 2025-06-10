@@ -45,7 +45,7 @@ pip install -r requirements.txt
 
 ## Running the Application
 
-### Backend (Flask API)
+### Backend (Express API)
 
 1. Navigate to the backend folder:
     ```bash
